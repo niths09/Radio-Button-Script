@@ -1,4 +1,4 @@
-# RadioButton Selenium Automation Project
+# Radio Button Selenium Automation Project
 
 This project demonstrates how to use Selenium WebDriver for automating the interaction with radio buttons on a practice webpage. The script navigates to a URL, selects three different radio buttons (BMW, Benz, and Honda), and introduces short delays to simulate user interactions and ensure that the user can observe each action.
 
@@ -20,4 +20,3 @@ Before running the project, ensure you have the following installed:
 - **Java**: Programming language used for the automation script.
 - **Selenium 4.25.0**: WebDriver for automating browser actions.
 - **ChromeDriver**: Driver to control the Chrome browser.
-# Radio-Button-Script
